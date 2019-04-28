@@ -8,3 +8,7 @@
     
  - 项目中使用的springdata-jpa可根据业务情况和实际技术选型替换为其他orm框架，springdata-jpa仅存储用于演示的用户和权限信息；
  
+ - 关于springboot整合springsecurity,参考：
+   
+      http://note.youdao.com/noteshare?id=9c1c8a4611a0ffd07c10ddd6d4a08784
+ 
