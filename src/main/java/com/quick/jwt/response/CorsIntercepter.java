@@ -16,7 +16,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  * @email wuxiaojin258@126.com
  * @date 2018年2月24日
  * @update 2019年3月20日 升级springboot2.0后弃用原方法
- * @description 后台管理系统拦截器、允许跨域请求
+ * @description 拦截器、允许跨域请求
  */
 @SpringBootConfiguration
 public class CorsIntercepter implements WebMvcConfigurer {
